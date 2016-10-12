@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle find-gem",
+        "command": "find-gem:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "find-gem",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "find-gem:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
