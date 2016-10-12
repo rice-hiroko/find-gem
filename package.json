@@ -1,9 +1,9 @@
 {
   "name": "find-gem",
   "main": "./lib/find-gem",
-  "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [
+  "version": "0.0.1",
+  "description": "Search for gem documentation",
+  "keywords": ["gem document"
   ],
   "activationCommands": {
     "atom-workspace": "find-gem:toggle"
