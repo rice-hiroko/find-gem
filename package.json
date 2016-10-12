@@ -6,7 +6,7 @@
   "keywords": ["gem document"
   ],
   "activationCommands": {
-    "atom-workspace": "find-gem:toggle"
+    "atom-workspace": "find-gem:find"
   },
   "repository": "https://github.com/atom/find-gem",
   "license": "MIT",
