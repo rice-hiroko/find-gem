@@ -3,7 +3,7 @@
     "atom-text-editor": [
       {
         "label": "find gem",
-        "command": "find-gem:find"
+        "command": "find-gem:find gem"
       }
     ]
   },
@@ -16,7 +16,7 @@
           "submenu": [
             {
               "label": "find gem",
-              "command": "find-gem:find"
+              "command": "find-gem:find gem"
             }
           ]
         }
