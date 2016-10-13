@@ -2,4 +2,4 @@
 
 A short description of your package.
 
-![Find gem](http://i.giphy.com/3o6Ztm6XakTgVNRGLK.gif)
+<img src="http://i.giphy.com/3o6Ztm6XakTgVNRGLK.gif" width="600px">
